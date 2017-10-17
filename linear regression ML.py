@@ -17,3 +17,4 @@ def train(n):
     return(error,a,b)
 
 train(epochs)
+
